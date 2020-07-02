@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="animator" type="id"/>
+    <item name="date_picker_day" type="id" />
+    <item name="date_picker_header" type="id" />
+    <item name="date_picker_month" type="id" />
+    <item name="date_picker_month_and_day" type="id" />
+    <item name="date_picker_year" type="id" />
+    <item name="day_picker_selected_date_layout" type="id" />
+    <item name="done" type="id" />
+    <item name="month_text_view" type="id" />
+    <item name="reference" type="id" />
+
+    <item name="aspect_fit_parent" type="id"></item>
+    <item name="input_options_basic" type="id"></item>
+    <item name="input_options_bottom_type" type="id"></item>
+    <item name="input_options_color_blue" type="id"></item>
+    <item name="input_options_color_brown" type="id"></item>
+    <item name="input_options_color_current" type="id"></item>
+    <item name="input_options_color_drak_blue" type="id"></item>
+    <item name="input_options_color_green" type="id"></item>
+    <item name="input_options_color_group" type="id"></item>
+    <item name="input_options_color_light_green" type="id"></item>
+    <item name="input_options_color_lite_blue" type="id"></item>
+    <item name="input_options_color_more_icon" type="id"></item>
+    <item name="input_options_color_orange" type="id"></item>
+    <item name="input_options_color_pink" type="id"></item>
+    <item name="input_options_color_purple" type="id"></item>
+    <item name="input_options_color_red" type="id"></item>
+    <item name="input_options_color_white" type="id"></item>
+    <item name="input_options_color_yellow" type="id"></item>
+    <item name="input_options_group_textsize" type="id"></item>
+    <item name="input_options_group_type" type="id"></item>
+    <item name="input_options_medium_textsize" type="id"></item>
+    <item name="input_options_more" type="id"></item>
+    <item name="input_options_rl_type" type="id"></item>
+    <item name="input_options_small_textsize" type="id"></item>
+    <item name="input_options_top_type" type="id"></item>
+</resources>
